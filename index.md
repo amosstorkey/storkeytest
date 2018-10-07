@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plainlayout
 title: Test
 ---
 
