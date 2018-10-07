@@ -2,6 +2,6 @@
     layout: default
     ---
 
-    # My site title
+    # Title
 
     This is the first test.
