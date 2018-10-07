@@ -1,8 +1,8 @@
-    ---
-    layout: default
-    title: Test
-    ---
+---
+layout: default
+title: Test
+---
 
-    # Title
+# Title
 
-    This is the first test.
+This is the first test.
